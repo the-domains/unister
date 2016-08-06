@@ -33,18 +33,15 @@ app_links:
     package: de.cellular.focus
     namespace: google
     type: android
-isBasedOnUrl: >-
-  http://www.focus.de/finanzen/news/unternehmen/krimi-um-unister-pleite-widersacher-wusste-ueber-wagners-venedig-deal-und-plante-seine-verhaftung_id_5789675.html
 title: Widersacher wusste über Wagners Venedig-Deal und plante seine Verhaftung
-datePublished: '2016-08-06T19:05:16.831Z'
-dateModified: '2016-08-06T19:05:12.043Z'
+datePublished: '2016-08-06T19:09:25.791Z'
+dateModified: '2016-08-06T19:09:25.225Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-06-widersacher-wusste-uber-wagners-venedig-deal-und-plante-sein.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: widersacher-wusste-uber-wagners-venedig-deal-und-plante-sein/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
