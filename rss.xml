@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Unister]]></title>
         <description><![CDATA[Unister]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/unister/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 19:02:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Aug 2016 19:05:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unister/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Widersacher wusste über Wagners Venedig-Deal und plante seine Verhaftung]]></title>
+            <description><![CDATA[<article><h1>Widersacher wusste über Wagners Venedig-Deal und plante seine Verhaftung</h1><p>Bei der neuen Figur handelt es sich um Reinhard Rade. Ein Unternehmer mit österreichischen Wurzeln und Vergangenheit in der rechten Szene. Der ehemalige Funktionär der rechtspopulistischen Partei "Die Republikaner" war ein enger Vertrauter von Unister-Mitgründer Daniel Kirchhof. Kirchhoff war ehemals gut mit dem verunglückten Unister-Gründer Wagner befreundet und bis zu seinem Ausscheiden aus der Firmengruppe 2015 als CFO tätig.</p><img src="http://p5.focus.de/img/fotos/crop5771591/1572718392-w1200-h627-o-q75-p5/unistermitlogos.jpg"></article>]]></description>
+            <link>http://www.focus.de/finanzen/news/unternehmen/krimi-um-unister-pleite-widersacher-wusste-ueber-wagners-venedig-deal-und-plante-seine-verhaftung_id_5789675.html</link>
+            <guid isPermaLink="false">d4195558-08b7-420e-a3a8-470e0055e8d5</guid>
+            <pubDate>Sat, 06 Aug 2016 19:05:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ProSiebenSat.1 überlegt, Unister zu übernehmen]]></title>
-            <description><![CDATA[<article><h1>ProSiebenSat.1 überlegt, Unister zu übernehmen</h1><p>Der Chef des Medienkonzerns ProSiebenSat.1 schließt eine Übernahme von Unister-Unternehmen nicht aus. Auf der Pressekonferenz zu den aktuellen Quartalszahlen am Donnerstag sagte der Vorstandsvorsitzende Thomas Ebeling auf Nachfrage, man diskutiere Vor- und Nachteile eines Kaufs. Allerdings sei ProSiebenSat.1 im Reisebereich bereits stark vertreten und sehe sich daher nicht gedrängt, Unister-Unternehmen zu übernehmen.</p><img src="http://www.gruenderszene.de/wp-content/uploads/2016/07/unister-leipzig.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>ProSiebenSat.1 überlegt, Unister zu übernehmen</h1><p>Der Chef des Medienkonzerns ProSiebenSat.1 schließt eine Übernahme von Unister-Unternehmen nicht aus. Auf der Pressekonferenz zu den aktuellen Quartalszahlen am Donnerstag sagte der Vorstandsvorsitzende Thomas Ebeling auf Nachfrage, man diskutiere Vor- und Nachteile eines Kaufs. Allerdings sei ProSiebenSat.1 im Reisebereich bereits stark vertreten und sehe sich daher nicht gedrängt, Unister-Unternehmen zu übernehmen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cc384468a662f049a62272ed8a20e7d0/noop.jpg?input=http%3A%2F%2Fwww.gruenderszene.de%2Fwp-content%2Fuploads%2F2016%2F07%2Funister-leipzig.jpg"></article>]]></description>
             <link>http://www.gruenderszene.de/allgemein/prosiebensat-unister-uebernahme-interesse</link>
             <guid isPermaLink="false">afdca800-f7f0-49cd-aa26-00f548150d89</guid>
             <pubDate>Sat, 06 Aug 2016 19:02:24 GMT</pubDate>
