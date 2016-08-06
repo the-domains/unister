@@ -16,17 +16,14 @@ description: >-
   nicht gedrängt, Unister-Unternehmen zu übernehmen.
 inLanguage: de
 app_links: []
-isBasedOnUrl: >-
-  http://www.gruenderszene.de/allgemein/prosiebensat-unister-uebernahme-interesse
 title: 'ProSiebenSat.1 überlegt, Unister zu übernehmen'
-datePublished: '2016-08-06T19:02:24.108Z'
-dateModified: '2016-08-06T19:02:10.797Z'
+datePublished: '2016-08-06T19:08:48.784Z'
+dateModified: '2016-08-06T19:08:47.909Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-06-prosiebensat1-uberlegt-unister-zu-ubernehmen.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: prosiebensat1-uberlegt-unister-zu-ubernehmen/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
