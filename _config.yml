@@ -12,11 +12,5 @@ color:
     - '#004E98'
 layout_spectrum: 0.1534323
 name: Unister
-navigation:
-  - name: Übernahme
-    id: afdca800-f7f0-49cd-aa26-00f548150d89
-    type: content
-  - name: Krimi
-    id: d4195558-08b7-420e-a3a8-470e0055e8d5
-    type: content
+navigation: []
 description: Press Clippings
