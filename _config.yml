@@ -1,4 +1,3 @@
-layout_spectrum: 0.1534323
 typography_spectrum: 0.2050968
 color:
   saturation: 0.7481748
@@ -11,5 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.1534323
 name: Unister
+navigation:
+  - name: Übernahme
+    id: afdca800-f7f0-49cd-aa26-00f548150d89
+    type: content
 description: Press Clippings
