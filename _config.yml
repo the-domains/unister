@@ -1,0 +1,14 @@
+layout_spectrum: 0.1534323
+typography_spectrum: 0.2050968
+color:
+  saturation: 0.7481748
+  lightness: 0.6134488
+  brandStrength: 0.8420492
+  rhythmicContrast: 0.6648888
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Unister
